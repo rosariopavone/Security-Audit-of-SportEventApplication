@@ -1,4 +1,4 @@
-# 🛡 Security Audit of SportEvent Application
+#  Security Audit of SportEvent Application
 
 This repository contains a detailed security audit report for the **SportEvent Application**, focusing on identifying vulnerabilities and proposing mitigation strategies to enhance the application's security posture.
 
